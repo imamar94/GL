@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-def plot(X0, Y0, X1):
+def plot(X0, Y0, X1, return_ax=False):
     colors = ["#ffffff", "#ff6361", "#003f5c", "#63005c", "#006355", "#5c3f00"]
     sns.set_palette(sns.color_palette(colors))
     X = list(X0) + list(X1)
@@ -21,4 +21,6 @@ def plot(X0, Y0, X1):
         ax.scatter(dplot["x1"], dplot["x2"], label=label, s=15)
 
     ax.legend()
+    if return_ax:
+        return ax
     plt.show()
