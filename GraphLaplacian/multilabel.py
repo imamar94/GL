@@ -123,7 +123,7 @@ class MBOMultiClass:
         Nl = len(self.__X0)
         Nu = len(self.__X1)
         N = len(X)
-        n_classes = max(self.__Y0) + 1
+        n_classes = len(np.unique(self.__Y0))
         temp = range(n_classes)
         Y0t = [[1 if x == y else 0 for x in temp] for y in self.__Y0]
         U = np.ones([Nu, n_classes])*0.5

@@ -134,7 +134,7 @@ class MBOBinary:
         Nu = len(self.__X1)
         N = len(X)
         U = np.ones(Nu)*0.5
-        n_feature = len(X[0])
+        n_feature = len(X[0]) if isinstance(X[0], np.ndarray) else 1
 
         # W = []
         # for i, x in enumerate(X):
@@ -178,6 +178,11 @@ class MBOBinary:
 
         ## START MBO Iteration
         Unew = U
+        tracking_data = list()
+        tracking_data.append(
+            {"k":0, "Nd":0, "State":"Initial", "Y": np.array(list(self.__Y0) + list(U))}
+        )
+
         for k in range(1000):
             for nd in range(self.__Nd):
                 Uold = Unew
@@ -193,11 +198,17 @@ class MBOBinary:
 
                 Unew = scipy.sparse.linalg.cg(A, b)[0]
                 error = np.dot(Unew - Uold, Unew - Uold) / np.dot(Unew, Unew)
+                tracking_data.append(
+                    {"k": k+1, "Nd":nd+1, "State": "Small Step", "Y": np.array(list(self.__Y0) + list(Unew))}
+                )
                 if error < 1e-5:
                     break
 
             ## Thresholding
             Unew = np.array([1 if u > 0.5 else 0 for u in Unew])
+            tracking_data.append(
+                {"k": k+1, "Nd":nd+1, "State": "After Tresholding", "Y": np.array(list(self.__Y0) + list(Unew))}
+            )
             error = np.dot(Unew - U, Unew - U) / np.dot(Unew, Unew)
             print("Interation",k,"error",error)
             if error < 1e-4:
@@ -206,4 +217,5 @@ class MBOBinary:
 
         Unew = np.array(list(self.__Y0) + list(Unew))
         self.Y = Unew
+        self.tracking = tracking_data
         return Unew
