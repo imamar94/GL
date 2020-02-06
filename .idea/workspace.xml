@@ -3,17 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a94c35cc-049b-4a3a-9456-c6504bb92618" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Result Collection-Copy1-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GraphLaplacian/binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/GraphLaplacian/binary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GraphLaplacian/multilabel.py" beforeDir="false" afterPath="$PROJECT_DIR$/GraphLaplacian/multilabel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Result Collection 2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Result Collection 2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Result Collection 3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Result Collection 3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Result Collection-Copy1.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Result Collection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Result Collection.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Untitled1.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/Balanced initial_imbalance result 7_3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/Balanced initial_imbalance result 7_3.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/test.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/test.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/See Propagation in MBO.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/See Propagation in MBO.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -165,7 +155,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Python Console" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -218,7 +208,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
