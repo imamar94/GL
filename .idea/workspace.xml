@@ -2,8 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a94c35cc-049b-4a3a-9456-c6504bb92618" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GL.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/00 GL MBO Binary.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/00 GL MBO Binary.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 Multiclass.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/01 Multiclass.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.1 Seminar - 1D Graph Laplacian.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/01.1 Seminar - 1D Graph Laplacian.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.2 Seminar - 2D Graph Laplacian.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/01.2 Seminar - 2D Graph Laplacian.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03 Additional Data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03 Additional Data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 MNIST.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03 MNIST.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GL + CG.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GL + CG.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GL Different Weight Function.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GL Different Weight Function.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GL vs MBO Balanced.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GL vs MBO Balanced.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GL vs MBO Imbalanced.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GL vs MBO Imbalanced.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph Laplacian Implementation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Graph Laplacian Implementation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphLaplacian/.idea/GraphLaplacian.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GraphLaplacian/.idea/GraphLaplacian.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphLaplacian/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/GraphLaplacian/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphLaplacian/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/GraphLaplacian/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphLaplacian/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/GraphLaplacian/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphLaplacian/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/GraphLaplacian/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphLaplacian/binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/GraphLaplacian/binary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphLaplacian/helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/GraphLaplacian/helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphLaplacian/multilabel.py" beforeDir="false" afterPath="$PROJECT_DIR$/GraphLaplacian/multilabel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Optimum Sigma.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Optimum Sigma.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plot.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plot.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Randomly Generated Data (N banyak).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Randomly Generated Data (N banyak).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rapih-Rapih.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Rapih-Rapih.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result Collection 2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Result Collection 2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result Collection 3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Result Collection 3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result Collection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Result Collection.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screen Shot 2019-12-12 at 15.19.28.png" beforeDir="false" afterPath="$PROJECT_DIR$/Screen Shot 2019-12-12 at 15.19.28.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/See Propagation in MBO - 2D.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/See Propagation in MBO - 2D.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/See Propagation in MBO.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/See Propagation in MBO.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,17 +59,25 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GraphLaplacian/multilabel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="525">
+              <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GraphLaplacian/helper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="97" selection-start-line="97" selection-end-line="97" />
+            <state relative-caret-position="243">
+              <caret line="72" selection-start-line="72" selection-end-line="114" selection-end-column="14" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -51,8 +93,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GraphLaplacian/binary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2595">
-              <caret line="176" column="26" selection-start-line="176" selection-start-column="16" selection-end-line="176" selection-end-column="26" />
+            <state relative-caret-position="315">
+              <caret line="117" column="23" selection-start-line="117" selection-start-column="23" selection-end-line="117" selection-end-column="23" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -69,6 +111,7 @@
       <find>0.001</find>
       <find>weight</find>
       <find>process_xi</find>
+      <find>GraphLaplacian</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -84,18 +127,16 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1440" />
-    <option name="y" value="-32" />
-    <option name="width" value="1920" />
-    <option name="height" value="1057" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="28" />
+    <option name="width" value="1440" />
+    <option name="height" value="872" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,17 +156,23 @@
             </path>
             <path>
               <item name="GL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GL" type="462c0819:PsiDirectoryNode" />
-              <item name="output" type="462c0819:PsiDirectoryNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="GL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -154,20 +201,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="-32" width="1920" height="1057" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24907847" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.25581396" />
+      <window_info id="Structure" order="1" sideWeight="0.50089765" side_tool="true" weight="0.25581396" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.27253887" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.36385542" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -175,6 +223,17 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GraphLaplacian/binary.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/GL vs MBO Balanced.ipynb">
@@ -189,6 +248,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data_3class_2000" />
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2019.1/python_stubs/1381670139/builtins.py" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -198,18 +258,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GraphLaplacian/multilabel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="22" />
+        <state relative-caret-position="525">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/GraphLaplacian/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/GraphLaplacian/binary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2595">
-          <caret line="176" column="26" selection-start-line="176" selection-start-column="16" selection-end-line="176" selection-end-column="26" />
+        <state relative-caret-position="315">
+          <caret line="117" column="23" selection-start-line="117" selection-start-column="23" selection-end-line="117" selection-end-column="23" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
@@ -218,8 +284,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GraphLaplacian/helper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="97" selection-start-line="97" selection-end-line="97" />
+        <state relative-caret-position="243">
+          <caret line="72" selection-start-line="72" selection-end-line="114" selection-end-column="14" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
